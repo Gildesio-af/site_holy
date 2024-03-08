@@ -51,7 +51,7 @@ header {
   color: black;
   -webkit-text-stroke-width: 0.1px;
   -webkit-text-stroke-color: yellow;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 .header-title p {
@@ -109,7 +109,7 @@ ul {
   padding-left: 10px; 
   padding-bottom: 10px;
   padding-right: 10px;
-  list-style-type: circle;
+  list-style-type: none;
   gap: 0; 
 }
 
@@ -218,7 +218,7 @@ ol li {
   }
 
   .header-title h3 {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .img-logo {
